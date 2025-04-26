@@ -56,3 +56,5 @@ fn move_token(
       &(max_spend_amount - transfer_amount),  
     );
 }
+
+mod test;
